@@ -12,8 +12,5 @@ Here is a repo for first time contributors.
 
 - Create a Pull Request and wait for it to get merged.
 
-
-
-
-
-Get 4 Pull/Merge requests on any repo with Hacktoberfest topic & enjoy your swags.
+<br>
+Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest & enjoy your swags.
